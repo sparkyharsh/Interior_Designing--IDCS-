@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Final_Interior_Designing.Bill" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAkECAgABAAAECA0jgCAAgQcA4pAAAAAAAAAAA=</HashCode>
+      <FileName>Bill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.CustDetails" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAkECAAAAIAgECgQDiCAAAUcAoIAAAAAAAACAA=</HashCode>
+      <FileName>CustDetails.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.Designs" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAgECAAAAAAAAKA0DECAEAAAAIIAMAxAAAAAAA=</HashCode>
+      <FileName>Designs.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.EmpDetails" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAkECAgAAAAgECgUDiCAAAUcAoIAAAAAAAAAAA=</HashCode>
+      <FileName>EmpDetails.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.InteriorObject" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAA0ECAAAAAAAACAQDgCAAAQAAIIAEA4AAAACAA=</HashCode>
+      <FileName>InteriorObject.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.InteriorTypes" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAkECAgAAAAAACAQDgCAAAQcAoIAAAAAAAAAAA=</HashCode>
+      <FileName>InteriorTypes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.LoginForm1" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAUCAAAAAwAACAAAAjIAAAAAAADAABBwAAAAA=</HashCode>
+      <FileName>LoginForm1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.MDIParent1" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgwgAgCIAVAGBQCCFgAoagAxBkEgAAAAIAwUEgAM=</HashCode>
+      <FileName>MDIParent1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.Objects" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAgECAAAAAAAAKA0DECAEAAMA4IAEAAAEAAAAA=</HashCode>
+      <FileName>Objects.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.Quotation" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAkECAgABAIIECgUDiCAAEQcAopAAAQAAAAAAA=</HashCode>
+      <FileName>Quotation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.Report" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAgAAAAAACAQDgCAAAQcAgIAEACAAAAAAA=</HashCode>
+      <FileName>Report.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.SplashScreen" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAMAAAAACAAAACAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>SplashScreen.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.My.MyApplication" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Interior_Designing.My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Final_Interior_Designing.Module1">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Final_Interior_Designing.My.MySettingsProperty">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Final_Interior_Designing.My.Resources.Resources">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
